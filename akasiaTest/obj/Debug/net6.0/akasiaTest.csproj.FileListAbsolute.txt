@@ -1,0 +1,15 @@
+D:\repos\akasiaTest\akasiaTest\bin\Debug\net6.0\akasiaTest.exe
+D:\repos\akasiaTest\akasiaTest\bin\Debug\net6.0\akasiaTest.deps.json
+D:\repos\akasiaTest\akasiaTest\bin\Debug\net6.0\akasiaTest.runtimeconfig.json
+D:\repos\akasiaTest\akasiaTest\bin\Debug\net6.0\akasiaTest.dll
+D:\repos\akasiaTest\akasiaTest\bin\Debug\net6.0\akasiaTest.pdb
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\akasiaTest.csproj.AssemblyReference.cache
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\akasiaTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\akasiaTest.AssemblyInfoInputs.cache
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\akasiaTest.AssemblyInfo.cs
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\akasiaTest.csproj.CoreCompileInputs.cache
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\akasiaTest.dll
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\refint\akasiaTest.dll
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\akasiaTest.pdb
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\akasiaTest.genruntimeconfig.cache
+D:\repos\akasiaTest\akasiaTest\obj\Debug\net6.0\ref\akasiaTest.dll
